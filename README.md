@@ -1,0 +1,1 @@
+# In this project, i am developing a LSTM dense model and predict the future stoick price.
